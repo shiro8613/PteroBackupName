@@ -11,7 +11,8 @@ root@localhost~#chmod install.sh #実行権限付与
 root@localhost~#./install.sh #インストール
 ```
 
-##スクリーンショット
+## スクリーンショット
+
 ![Alt text](image.png)
 
 インストールすると詳細コンテキストメニューに「CopyOriginName」が増え、
